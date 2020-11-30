@@ -1,5 +1,5 @@
 # 3019Project
-### This is a recreation file simulating what would output after the code is run.
+### This is a recreation file simulating what would be output after the code is run.
 
 
 ![Projectgraph](https://gyazo.com/b79403f0272fa0778482920e9b575a68.png)
