@@ -18,4 +18,4 @@
 
 3c) The average brightness over all 5 transits is 0.9988866832446865
 
-3c) The radius of the planet is 0.017016864812797607 Solar Radii.
+3c) The radius of the planet is 0.017016864812797607 Earth Radii.
