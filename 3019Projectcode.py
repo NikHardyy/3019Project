@@ -151,7 +151,7 @@ R_star = 0.510 #(Solar Radii)
 drop = 1 - avgAll
 r_planet = (drop*(R_star**2))**0.5
 
-print("3c) The radius of the planet is", r_planet)
+print("3c) The radius of the planet is", r_planet, "Solar Radii.")
 
 
 
